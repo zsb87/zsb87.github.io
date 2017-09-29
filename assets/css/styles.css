@@ -1,0 +1,669 @@
+html{
+  font-size: 100%;
+  font: inherit;
+}
+
+#mobile-nav ul, #mobile-nav li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 12, ../scss/base/_mixins-extends.scss */
+#top-bar:after, .bottom-bar:after, #search:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 3, ../scss/base/_core.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 7, ../scss/base/_core.scss */
+html {
+  overflow-y: scroll;
+}
+
+/* line 11, ../scss/base/_core.scss */
+body {
+  overflow-x: hidden;
+}
+
+/* line 49, ../scss/base/_core.scss */
+.contain-780 {
+  margin: 0 auto;
+  max-width: 780px;
+  box-sizing: content-box;
+}
+
+/* line 55, ../scss/base/_core.scss */
+.contain-850 {
+  margin: 0 auto;
+  max-width: 850px;
+  box-sizing: content-box;
+}
+
+/* line 61, ../scss/base/_core.scss */
+.contain-970 {
+  margin: 0 auto;
+  max-width: 970px;
+  box-sizing: content-box;
+}
+
+/* line 67, ../scss/base/_core.scss */
+.contain-1120 {
+  margin: 0 auto;
+  max-width: 1120px;
+  box-sizing: content-box;
+}
+
+/* line 73, ../scss/base/_core.scss */
+.contain-1440 {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+/* line 85, ../scss/base/_core.scss */
+.hide-label {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/* line 34, ../scss/base/_typography.scss */
+#page {
+  margin: 2rem auto;
+  max-width: 1120px;
+}
+
+@media screen and (max-width: 1145px) {
+  /* line 75, ../scss/base/_typography.scss */
+  #page {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@font-face {
+  font-family: "Akkurat Pro Bold";
+  src: url("https://common.northwestern.edu/v8/css/fonts/AkkuratProBold.woff") format("woff");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+/* line 3, ../scss/sections/_header.scss */
+header {
+  background: #4e2a84;
+}
+
+/* line 7, ../scss/sections/_header.scss */
+#top-bar {
+  background: #401f68;
+  font: 12px/1.4em "Akkurat Pro Bold", "Arial Black", sans-serif;
+  font-weight: lighter;
+  min-height: 60px;
+}
+/* line 13, ../scss/sections/_header.scss */
+#top-bar #left {
+  display: block;
+  float: left;
+  padding-left: 0;
+}
+/* line 18, ../scss/sections/_header.scss */
+#top-bar #left img {
+  width: 170px;
+  margin: 1.1rem 0 1rem 0;
+}
+/* line 25, ../scss/sections/_header.scss */
+#top-bar #right {
+  display: inline;
+  position: relative;
+  float: right;
+  padding-right: 1rem;
+  margin-top: 1.4rem;
+  color: white;
+  text-transform: uppercase;
+}
+/* line 34, ../scss/sections/_header.scss */
+#top-bar #right ul {
+  margin: 0;
+}
+/* line 37, ../scss/sections/_header.scss */
+#top-bar #right ul li {
+  display: inline-block;
+  position: relative;
+  margin-left: 1rem;
+}
+/* line 42, ../scss/sections/_header.scss */
+#top-bar #right ul li:hover, #top-bar #right ul li.hover {
+  z-index: 100;
+}
+/* line 46, ../scss/sections/_header.scss */
+#top-bar #right ul li:hover ul, #top-bar #right ul li.hover ul {
+  right: -1rem;
+}
+/* line 50, ../scss/sections/_header.scss */
+#top-bar #right ul li:last-child {
+  cursor: pointer;
+}
+/* line 54, ../scss/sections/_header.scss */
+#top-bar #right ul li .dropdown-arrow {
+  background: url("https://common.northwestern.edu/v8/css/images/icons/arrow-down-white.svg") no-repeat 0 0.1rem;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  right: -1rem;
+  top: 2px;
+  margin-left: .3em;
+}
+/* line 65, ../scss/sections/_header.scss */
+#top-bar #right ul a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  position: relative;
+}
+/* line 72, ../scss/sections/_header.scss */
+#top-bar #right ul a:hover, #top-bar #right ul a:focus, #top-bar #right ul a:active {
+  text-decoration: underline;
+}
+/* line 76, ../scss/sections/_header.scss */
+#top-bar #right ul ul {
+  position: absolute;
+  top: 100%;
+  right: -9999em;
+  width: 150px;
+  background: #401f68;
+  padding: .5rem;
+  text-align: right;
+  z-index: -100;
+}
+/* line 86, ../scss/sections/_header.scss */
+#top-bar #right ul ul li {
+  float: none;
+  padding: 0 0 .5rem 0;
+  width: 100%;
+  margin: 0;
+}
+/* line 92, ../scss/sections/_header.scss */
+#top-bar #right ul ul li:hover ul, #top-bar #right ul ul li.hover ul {
+  left: 0;
+}
+
+/* line 101, ../scss/sections/_header.scss */
+.bottom-bar {
+  display: table;
+  width: 100%;
+}
+
+/* line 107, ../scss/sections/_header.scss */
+#department {
+  display: table-cell;
+  vertical-align: middle;
+  width: 76.33929%;
+  height: 112px;
+  padding: 1rem 0;
+}
+/* line 114, ../scss/sections/_header.scss */
+#department h1 {
+  font: 32px "Akkurat Pro Regular", Arial, sans-serif;
+  line-height: 1em;
+}
+/* line 118, ../scss/sections/_header.scss */
+#department h1.small {
+  font-size: 16px;
+}
+/* line 122, ../scss/sections/_header.scss */
+#department h1 span {
+  font-size: 14px;
+  line-height: 1em;
+  display: block;
+}
+/* line 129, ../scss/sections/_header.scss */
+#department h2 {
+  font: 24px "Akkurat Pro Regular", Arial, sans-serif;
+  line-height: 1em;
+  color: white;
+  margin: 1rem 0 0 0;
+}
+/* line 136, ../scss/sections/_header.scss */
+#department a {
+  color: white;
+  text-decoration: none;
+}
+/* line 140, ../scss/sections/_header.scss */
+#department a:hover {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1445px) {
+  /* line 149, ../scss/sections/_header.scss */
+  #top-bar {
+    padding: 0 .5rem;
+  }
+}
+@media screen and (max-width: 1145px) {
+  /* line 156, ../scss/sections/_header.scss */
+  #department {
+    padding-left: .5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  /* line 163, ../scss/sections/_header.scss */
+  #top-bar {
+    display: block;
+    padding: 0;
+  }
+  /* line 167, ../scss/sections/_header.scss */
+  #top-bar #left {
+    display: inline-block;
+    float: none;
+    margin-left: .5rem;
+  }
+  /* line 173, ../scss/sections/_header.scss */
+  #top-bar #right {
+    display: none;
+  }
+
+  /* line 178, ../scss/sections/_header.scss */
+  #department {
+    width: 100%;
+    padding: .5rem;
+    height: auto;
+  }
+  /* line 183, ../scss/sections/_header.scss */
+  #department h1 {
+    margin: .5rem 0;
+    font-size: 24px;
+  }
+  /* line 188, ../scss/sections/_header.scss */
+  #department h2 {
+    margin: .2rem .2rem .2rem 0;
+  }
+}
+@media screen and (max-width: 480px) {
+  /* line 198, ../scss/sections/_header.scss */
+  #department h1, #department h2 {
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* line 74, ../scss/sections/_search.scss */
+  header {
+    position: relative;
+  }
+}
+/* line 3, ../scss/sections/_mobile-nav.scss */
+#mobile-links, #mobile-nav {
+  display: none;
+}
+
+/* line 7, ../scss/sections/_top-nav.scss */
+#top-nav {
+  background: #4e2a84;
+  border-bottom: 5px solid white;
+}
+/* line 13, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul {
+  text-align: justify;
+  line-height: 0;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  min-height: 51px;
+  position: relative;
+  font-size: .1px;
+  background: white;
+}
+/* line 24, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+/* line 30, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li {
+  display: inline-block;
+  line-height: 100%;
+  font: 18px "Akkurat Pro Bold", "Arial Black", sans-serif;
+}
+/* line 35, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li:hover a {
+  background: #f0f0f0;
+  transition: .3s;
+}
+/* line 40, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li:hover a.button {
+  background: #4e2a84;
+}
+/* line 44, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li:hover .dropdown, #top-nav .contain-1120 > ul > li:hover .dropdown-one-column, #top-nav .contain-1120 > ul > li:hover .dropdown-two-column {
+  left: 0;
+}
+/* line 48, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li a {
+  color: #4e2a84;
+  text-decoration: none;
+  display: block;
+  padding: 1rem 1.5rem;
+}
+/* line 54, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li a:hover {
+  text-decoration: underline;
+}
+/* line 59, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li.active a {
+  background: #836eaa;
+  color: white;
+}
+/* line 64, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 > ul > li .dropdown-arrow {
+  background: url("https://common.northwestern.edu/v8/css/images/icons/arrow-down-ltpurple.svg") no-repeat 50%;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin-left: .5em;
+}
+/* line 74, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown, #top-nav .contain-1120 .dropdown-one-column, #top-nav .contain-1120 .dropdown-two-column {
+  position: absolute;
+  background: #f0f0f0;
+  left: -9999em;
+  z-index: 9998;
+  width: 100%;
+  padding: 2em;
+  text-align: left;
+  list-style: none;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+/* line 88, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown .nav-intro, #top-nav .contain-1120 .dropdown .nav-links, #top-nav .contain-1120 .dropdown-one-column .nav-intro, #top-nav .contain-1120 .dropdown-one-column .nav-links, #top-nav .contain-1120 .dropdown-two-column .nav-intro, #top-nav .contain-1120 .dropdown-two-column .nav-links {
+  width: 50%;
+  float: left;
+  text-align: left;
+}
+/* line 94, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown p.intro, #top-nav .contain-1120 .dropdown-one-column p.intro, #top-nav .contain-1120 .dropdown-two-column p.intro {
+  font: 30px "Campton Bold", Impact, sans-serif;
+  color: #4e2a84;
+  margin: 0 0 1rem 0;
+  padding-right: 2rem;
+}
+/* line 101, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown .nav-links, #top-nav .contain-1120 .dropdown-one-column .nav-links, #top-nav .contain-1120 .dropdown-two-column .nav-links {
+  border-left: 2px solid #cccccc;
+  padding-left: 1rem;
+}
+/* line 106, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown ul, #top-nav .contain-1120 .dropdown-one-column ul, #top-nav .contain-1120 .dropdown-two-column ul {
+  display: block;
+  background: inherit;
+}
+/* line 110, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown ul li, #top-nav .contain-1120 .dropdown-one-column ul li, #top-nav .contain-1120 .dropdown-two-column ul li {
+  display: block;
+  text-align: left;
+  width: inherit;
+  line-height: 1.4em;
+}
+/* line 116, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown ul li a, #top-nav .contain-1120 .dropdown-one-column ul li a, #top-nav .contain-1120 .dropdown-two-column ul li a {
+  padding: .3em 0;
+  display: inline-block;
+  background: inherit;
+  color: #4e2a84;
+}
+/* line 122, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown ul li a:hover, #top-nav .contain-1120 .dropdown-one-column ul li a:hover, #top-nav .contain-1120 .dropdown-two-column ul li a:hover {
+  text-decoration: underline;
+}
+/* line 133, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown-two-column ul {
+  width: 100% !important;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 2rem;
+  -moz-column-gap: 2rem;
+  column-gap: 2rem;
+  -webkit-column-rule: 2px solid #cccccc;
+  -moz-column-rule: 2px solid #cccccc;
+  column-rule: 2px solid #cccccc;
+  margin: 0;
+  padding: 0;
+}
+/* line 147, ../scss/sections/_top-nav.scss */
+#top-nav .contain-1120 .dropdown-two-column ul li {
+  background: none;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  display: inline-block;
+}
+/* line 161, ../scss/sections/_top-nav.scss */
+#top-nav.narrow-dropdown ul li {
+  position: relative;
+}
+/* line 164, ../scss/sections/_top-nav.scss */
+#top-nav.narrow-dropdown ul li:hover ul.nav-align-right {
+  right: 0;
+  left: inherit;
+}
+/* line 169, ../scss/sections/_top-nav.scss */
+#top-nav.narrow-dropdown ul li:hover ul.nav-align-right li {
+  text-align: right;
+}
+/* line 174, ../scss/sections/_top-nav.scss */
+#top-nav.narrow-dropdown .dropdown {
+  display: inherit;
+  width: 320px;
+  padding: 1em;
+}
+
+@media screen and (max-width: 1000px) {
+  /* line 185, ../scss/sections/_top-nav.scss */
+  #top-nav .contain-1120 > ul > li {
+    float: left;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* line 192, ../scss/sections/_top-nav.scss */
+  #top-nav {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* line 10, ../scss/sections/_mobile-nav.scss */
+  #mobile-links {
+    display: block;
+    float: right;
+    height: 55px;
+  }
+
+  /* line 15, ../scss/sections/_mobile-nav.scss */
+  .mobile-link {
+    display: inline-block;
+    padding: 1em;
+    height: 55px;
+    width: 55px;
+    cursor: pointer;
+    position: relative;
+  }
+  /* line 23, ../scss/sections/_mobile-nav.scss */
+  .mobile-link.mobile-search-link {
+    background: url("https://common.northwestern.edu/v8/css/images/icons/search.svg") no-repeat center/20px 20px;
+  }
+  /* line 26, ../scss/sections/_mobile-nav.scss */
+  .mobile-link.mobile-search-link.open {
+    background: #4e2a84 url("https://common.northwestern.edu/v8/css/images/icons/alert-x-white-home.svg") no-repeat center/20px 20px;
+  }
+  /* line 31, ../scss/sections/_mobile-nav.scss */
+  .mobile-link.mobile-nav-link {
+    background: url("https://common.northwestern.edu/v8/css/images/icons/hamburger.svg") no-repeat center/20px 20px;
+  }
+  /* line 34, ../scss/sections/_mobile-nav.scss */
+  .mobile-link.mobile-nav-link.open {
+    background: white url("https://common.northwestern.edu/v8/css/images/icons/close-button-dkpurple.svg") no-repeat center/20px 20px;
+  }
+
+  /* line 40, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav {
+    display: none;
+    background: white;
+    position: absolute;
+    top: 55px;
+    left: 0;
+    right: 0;
+    z-index: 9998;
+  }
+  /* line 49, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul {
+    background: white;
+  }
+  /* line 52, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul ul {
+    display: none;
+    background: #f0f0f0;
+  }
+  /* line 56, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul ul ul {
+    background-color: #e6e6e6;
+  }
+  /* line 59, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul ul ul ul {
+    background-color: gainsboro;
+  }
+  /* line 62, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul ul ul ul ul {
+    background-color: #d1d1d1;
+  }
+  /* line 65, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav ul ul ul ul ul ul {
+    background-color: #c7c7c7;
+  }
+  /* line 74, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li {
+    position: relative;
+    font: 18px "Akkurat Pro Bold", "Arial Black", sans-serif;
+  }
+  /* line 79, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li a {
+    text-decoration: none;
+    color: #4e2a84;
+    display: block;
+    border-bottom: 1px solid #f0f0f0;
+    position: relative;
+    padding: .9em 3em .9em .8em;
+  }
+  /* line 87, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li a.active {
+    color: black;
+    font-family: "Akkurat Pro Bold", "Arial Black", sans-serif;
+  }
+  /* line 95, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li .arrow.open a {
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+    border: none;
+  }
+  /* line 102, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li .arrow a {
+    width: 50px;
+    height: 48px;
+    background: url("https://common.northwestern.edu/v8/css/images/icons/mobile-down-arrow-ltpurple.svg") no-repeat center/20px 20px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-indent: -9999px;
+    overflow: hidden;
+    border: none;
+    padding: 0;
+  }
+  /* line 117, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li {
+    font: 16px/1.2em "Akkurat Pro Regular", Arial, sans-serif;
+  }
+  /* line 120, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li a {
+    padding-left: 1.5em;
+  }
+  /* line 124, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li li a {
+    padding-left: 2em;
+  }
+  /* line 127, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li li li a {
+    padding-left: 2.5em;
+  }
+  /* line 131, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li li li li a {
+    padding-left: 3em;
+  }
+  /* line 135, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav li li li li li li a {
+    padding-left: 3.5em;
+  }
+
+  /* line 143, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom {
+    background: #401f68;
+  }
+  /* line 146, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* line 150, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom ul {
+    margin: 0;
+    padding: 1rem;
+    background: none;
+  }
+  /* line 156, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom li {
+    background: transparent;
+    padding: 0;
+    font-size: 12px;
+    line-height: 24px;
+    margin: 0;
+    list-style: none;
+  }
+  /* line 164, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom li:last-child {
+    border: none;
+  }
+  /* line 168, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom li a {
+    text-transform: uppercase;
+    color: white;
+    font: 12px/2em "Akkurat Pro Bold", "Arial Black", sans-serif;
+    border: none;
+    padding: inherit;
+  }
+  /* line 175, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom li a.white-link {
+    color: white;
+  }
+  /* line 181, ../scss/sections/_mobile-nav.scss */
+  #mobile-nav-bottom #mobile-nav-bottom-left, #mobile-nav-bottom #mobile-nav-bottom-right {
+    width: 50%;
+    display: inline-block;
+    float: left;
+  }
+}
