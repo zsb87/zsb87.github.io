@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Tue, 13 Feb 2018 21:31:06 at https://0.s3.envato.com/files/46651478/index.html
+(httrack https://0.s3.envato.com/files/46651478/index.html -O ./ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:31:21	Warning: 	File not parsed, looks like binary: https://0.s3.envato.com/files/46651478/sound/170100__klankbeeld__music-box-loop-24.ogg
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 15 links scanned, 14 files written (1431116 bytes overall) [1439829 bytes received at 95988 bytes/sec], 5.0 requests per connection
+(No errors, 1 warnings, 0 messages)
