@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing"
+collection: Information Fusion
+permalink: https://www.sciencedirect.com/science/article/pii/S1566253517304785
+excerpt: ''
+date: May 2018
+venue: 'Volume 41'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1566253517304785'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Authors face the important issue to detect people's overeating activity, which often causes health issues, by using wrist-worn sensors. Specifically, a machine learning framework was designed to detect and accurately count the number of feeding gestures during an eating episode to characterize each eating episode with a feeding gesture count using a 6-axis inertial wrist-worn sensor. Results show optimal result for participant-dependent models. Generalization relies on a motif-based time-point fusion classification framework. Finally, mapping feeding gesture count to caloric intake, allowed to roughly estimate whether participants overate while watching television.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1566253517304785)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
