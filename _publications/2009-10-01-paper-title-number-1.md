@@ -1,5 +1,5 @@
 ---
-title: "I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing"
+title: "Food watch: detecting and characterizing eating episodes through feeding gestures"
 collection: Information Fusion
 permalink: https://www.sciencedirect.com/science/article/pii/S1566253517304785
 excerpt: ''
