@@ -7,7 +7,9 @@ permalink: /publication/
 
 # Publication
 
+
 ## Journal Publications
+---
 
 [I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing][1]. 
 S. Zhang, W. Stogin, and N. Alshurafa. *Information Fusion, Volume 41, May 2018.*
@@ -21,6 +23,7 @@ S Zhang, R Alharbi, W Stogin, K Moran, AF Pfammatter, B Spring, and N. Alshurafa
 
 
 ## Conference Proceedings
+---
 [When generalized eating detection machine learning models fail in the field][2].
 S. Zhang, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017)*
 <!-- Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers, Pages 613-622. -->
@@ -42,9 +45,11 @@ X Cheng, S Zhang, Y Chen, H Zhang, X Zhu. *2014 IEEE 15th Workshop on Control an
 
 <!-- Study on controlling power quality based on thermodynamics modeling method for 6.3 kV power system -->
 
-## Contact
 
-If you want to get in touch with me you can email me on ![](/assets/images/email.png)
+## Contact
+---
+
+If you would like to contact me, please email me on ![](/assets/images/email.png).
 
 
 [1]: https://www.sciencedirect.com/science/article/pii/S1566253517304785
@@ -53,3 +58,6 @@ If you want to get in touch with me you can email me on ![](/assets/images/email
 [4]: http://www.nalshurafa.com/assets/papers/49.pdf
 [5]: https://ieeexplore.ieee.org/abstract/document/7776407/
 [6]: https://ieeexplore.ieee.org/abstract/document/6877172/
+
+
+
