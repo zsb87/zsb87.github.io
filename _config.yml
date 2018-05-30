@@ -48,4 +48,7 @@ exclude: [ 'README.md', 'src/', 'node_modules', 'package.json', 'Gruntfile.js' ]
 excerpt_separator: <!--excerpt_separator-->
 
 # Gems
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
