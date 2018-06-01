@@ -24,6 +24,7 @@ S Zhang, R Alharbi, W Stogin, K Moran, AF Pfammatter, B Spring, and N. Alshurafa
 
 ## Conference Proceedings
 ---
+
 [When generalized eating detection machine learning models fail in the field][2].
 S. Zhang, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017)*
 <!-- Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers, Pages 613-622. -->
