@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my personal website!"
-description: Welcome to my personal website!
-permalink: /welcome-to-my-personal-website
+title:  "Welcome to Shibo Zhang's homepage!"
+description: Welcome to Shibo Zhang's homepage!
+permalink: /welcome-to-Shibo-Zhang's-homepage
 ---
 
 
