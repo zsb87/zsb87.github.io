@@ -53,8 +53,8 @@ H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE Inter
 
 
 
-[Machine learning algorithms applied to detect feeding gestures][4].
-**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016.*
+<a href="../assets/pdfs/49.pdf">Machine learning algorithms applied to detect feeding gestures</a>
+**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016.* <a href="../assets/pdfs/49.pdf">[pdf]</a>
 
 
 
