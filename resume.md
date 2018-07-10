@@ -72,9 +72,9 @@ Defining Gold Standard Measures for Obesity-Related Research. *NU's Data Science
 Awards
 ----------
 
-Best Paper Award, Bodynets 2016
-Outstanding Undergraduate Graduation Thesis Award
-National Freescale Cup Intelligent Car Racing Competition, Second Prize
+Best Paper Award, Bodynets 2016\
+Outstanding Undergraduate Graduation Thesis Award\
+National Freescale Cup Intelligent Car Racing Competition, Second Prize\
 
 
 Teaching
