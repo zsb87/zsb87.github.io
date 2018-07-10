@@ -27,7 +27,6 @@ Education
 2021 (expected)
 :   PhD, Computer Science, Northwestern University
 
-
 <!-- 2017
 :   MSc, Computer Science, Northwestern University
 2014
@@ -72,9 +71,9 @@ Defining Gold Standard Measures for Obesity-Related Research. *NU's Data Science
 Awards
 ----------
 
-Best Paper Award, Bodynets 2016  
+Best Paper Award, Bodynets 2016<br/>
 Outstanding Undergraduate Graduation Thesis Award<br/>
-National Freescale Cup Intelligent Car Racing Competition, Second Prize\
+National Freescale Cup Intelligent Car Racing Competition, Second Prize<br/>
 
 
 Teaching
