@@ -73,7 +73,7 @@ Awards
 
 Best Paper Award, Bodynets 2016<br/>
 Outstanding Undergraduate Graduation Thesis Award<br/>
-National Freescale Cup Intelligent Car Racing Competition, Second Prize<br/>
+National Freescale Cup Intelligent Car Racing Competition<!-- , Second Prize<br/> -->
 
 
 Teaching
