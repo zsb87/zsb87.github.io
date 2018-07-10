@@ -30,7 +30,7 @@ Education
 
 <!-- 2017
 :   MSc, Computer Science, Northwestern University
-2012
+2014
 :   MSc, Electrical Engineering, Northwestern University-->
 
 Publications
@@ -65,7 +65,7 @@ X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on C
 
 Presentations
 ----------
-Defining Gold Standard Measures for Obesity-Related Research. NU's Data Science Research Day, hosted by Northwestern's Data Science Initiative (DSI).
+Defining Gold Standard Measures for Obesity-Related Research. *NU's Data Science Research Day, hosted by Northwestern's Data Science Initiative (DSI).*
 
 
 
