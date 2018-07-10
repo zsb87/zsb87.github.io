@@ -73,7 +73,7 @@ Awards
 ----------
 
 Best Paper Award, Bodynets 2016\
-Outstanding Undergraduate Graduation Thesis Award\
+Outstanding Undergraduate Graduation Thesis Award&nbsp;
 National Freescale Cup Intelligent Car Racing Competition, Second Prize\
 
 
