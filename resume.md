@@ -13,45 +13,27 @@ urlcolor: blue
 
 # Resume
 
+Research Interests
+---------
+
+Machine Learning, Human Activity Recognition, Time Series Data Analysis
+
+
+
+
 
 Education
 ---------
 
-2017 - 2021 (expected)
+2021 (expected)
 :   PhD, Computer Science, Northwestern University
-
-
-2015 - 2017
+<!-- 
+2017
 :   MSc, Computer Science, Northwestern University
 
-Work Experience
-----------
-
-2016 - Present
-:   *HABitslab*, Research Assitant
-
-
-2015 (Summer)
-:   *DJI*, Short-term Intern 
-
-
-2014 - 2015
-:   *Eaton*, Engineering & Technology Leadership Program
-
-
-2012 - 2014
-:   *Eaton (Global Research and Technology)*, Project Assistant
-
-
-Teaching
-----------
-
-2018 Winter
-:   *EECS 395, 495: Wireless And Mobile Health (MHealth)*, Teaching Assistant
-
-2017 Winter
-:   *EECS 397, 497: Wireless And Mobile Health (MHealth)*, Teaching Assistant
-
+2012
+:   MSc, Electrical Engineering, Northwestern University
+ -->
 
 Publications
 ----------
@@ -86,6 +68,45 @@ X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on C
 Presentations
 ----------
 Defining Gold Standard Measures for Obesity-Related Research. NU's Data Science Research Day, hosted by Northwestern's Data Science Initiative (DSI).
+
+
+
+Awards
+----------
+Best Paper Award, Bodynets 2016
+
+Outstanding Undergraduate Graduation Thesis Award
+
+National Freescale Cup Intelligent Car Racing Competition, Second Prize
+
+
+Teaching
+----------
+
+2018 Winter
+:   *EECS 395, 495: Wireless And Mobile Health (MHealth)*, Teaching Assistant
+
+2017 Winter
+:   *EECS 397, 497: Wireless And Mobile Health (MHealth)*, Teaching Assistant
+
+
+<!-- Work Experience
+----------
+
+2016 - Present
+:   *HABitslab*, Research Assistant
+
+
+2015 (Summer)
+:   *DJI*, Short-term Intern 
+
+
+2014 - 2015
+:   *Eaton*, Engineering & Technology Leadership Program
+
+
+2012 - 2014
+:   *Eaton (Global Research and Technology)*, Project Assistant -->
 
 
 
