@@ -59,7 +59,7 @@ H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE Inter
 
 
 [Auto-commissioning and adaptive tuning of servo control parameters in an electro-hydraulic system based on physical plant model][6].
-X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).*
+X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).* <a href="assets/pdfs/06877172.pdf">[pdf]</a>
 
 <sub><sup>**Highlight:** In industrial servo control systems, the system performance is significantly affected by the physical parameter variance from different machine configuration and from the hydraulic loop non-linearity. Parameter detuning deteriorates the system performance and may even cause system instability issue, and parameter tuning requires much labor effort. In this paper, based on the physical plant model, an auto-commissioning and adaptive tuning method is proposed in a servo motor driven hydraulic control system. The hydraulic loop parameter which is time-variant is off-line or on-line estimated and then used for auto-commissioning and adaptive tuning of control parameters. The proposed method is verified with experiment to achieve high repeatability of dynamic and steady-state performance in different working conditions, and requires zero effort for parameter tuning.</sup></sub>
 

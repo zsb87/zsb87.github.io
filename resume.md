@@ -59,7 +59,7 @@ H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE Inter
 **S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016.*
 
 [Auto-commissioning and adaptive tuning of servo control parameters in an electro-hydraulic system based on physical plant model][6].
-X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).*
+X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).* 
 
 
 Presentations
