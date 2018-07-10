@@ -21,19 +21,17 @@ Machine Learning, Human Activity Recognition, Time Series Data Analysis
 
 
 
-
 Education
 ---------
 
 2021 (expected)
 :   PhD, Computer Science, Northwestern University
-<!-- 
-2017
-:   MSc, Computer Science, Northwestern University
 
+
+<!-- 2017
+:   MSc, Computer Science, Northwestern University
 2012
-:   MSc, Electrical Engineering, Northwestern University
- -->
+:   MSc, Electrical Engineering, Northwestern University-->
 
 Publications
 ----------
