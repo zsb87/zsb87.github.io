@@ -57,6 +57,10 @@ Teaching
 Publications
 ----------
 
+Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors. (poster, accepted)
+**S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018)*
+
+
 [I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing][1]. 
 **S. Zhang**, W. Stogin, and N. Alshurafa. *Information Fusion, Volume 41, May 2018.*
 
@@ -70,14 +74,19 @@ Publications
 
 
 [An iterative dimensionality-scaling system for real-time health monitoring applications][5].
-H Kalantarian, M Sarrafzadeh, **S Zhang**, and N Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI)* 
+H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI)* 
 
 
 [Machine learning algorithms applied to detect feeding gestures][4].
-**S Zhang**, R Alharbi, W Stogin, K Moran, AF Pfammatter, B Spring, and N. Alshurafa. *The Obesity Society 2016*
+**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016*
 
 [Auto-commissioning and adaptive tuning of servo control parameters in an electro-hydraulic system based on physical plant model][6].
-X Cheng, **S Zhang**, Y Chen, H Zhang, X Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).*
+X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).*
+
+
+Presentations
+----------
+Defining Gold Standard Measures for Obesity-Related Research. NU's Data Science Research Day, hosted by Northwestern's Data Science Initiative (DSI).
 
 
 
