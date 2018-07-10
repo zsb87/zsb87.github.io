@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Shibo Zhang's homepage!"
-author: Shibo Zhang
 description: Welcome to Shibo Zhang's homepage!
 permalink: /welcome-to-Shibo-Zhang's-homepage
 ---
