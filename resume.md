@@ -14,7 +14,6 @@ urlcolor: blue
 # Resume
 
 
-
 Education
 ---------
 
@@ -31,13 +30,13 @@ Work Experience
 2016 - Present
 :   *HABitslab*, Research Assitant
 
+
 2015 (Summer)
 :   *DJI*, Short-term Intern 
 
 
 2014 - 2015
 :   *Eaton*, Engineering & Technology Leadership Program
-
 
 
 2012 - 2014
@@ -58,7 +57,7 @@ Publications
 ----------
 
 Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors. (poster, accepted)
-**S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018)*
+**S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018).*
 
 
 [I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing][1]. 
@@ -66,7 +65,7 @@ Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-wor
 
 
 [When generalized eating detection machine learning models fail in the field][2].
-**S. Zhang**, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017)*
+**S. Zhang**, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017).*
 
 
 [Food watch: detecting and characterizing eating episodes through feeding gestures][3]. **(Best Paper Award)**
@@ -74,11 +73,11 @@ Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-wor
 
 
 [An iterative dimensionality-scaling system for real-time health monitoring applications][5].
-H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI)* 
+H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI).* 
 
 
 [Machine learning algorithms applied to detect feeding gestures][4].
-**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016*
+**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016.*
 
 [Auto-commissioning and adaptive tuning of servo control parameters in an electro-hydraulic system based on physical plant model][6].
 X. Cheng, **S. Zhang**, Y. Chen, H. Zhang, X. Zhu. *2014 IEEE 15th Workshop on Control and Modeling for Power Electronics (COMPEL).*

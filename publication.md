@@ -23,7 +23,7 @@ permalink: /publication/
 ---
 
 Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors. (poster, accepted)
-**S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018)*
+**S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018).*
 <!-- Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers, Pages 613-622. -->
 
 <sub><sup>**Highlight:** We present an approach for estimating calorie intake given a limited number of foods provided to patients in an in-bed setting. Data collected from a proximity sensor, inertial measurement unit, ambient light, and audio sensor placed around the neck are used to classify food-type consumed by second using a random forest classifier. A multiple linear regression model is then developed for each food-type to map second-level features to calories per second. We conducted a user study in a patient simulated lab setting, where 10 participants were asked to eat while sitting on a patient bed. A user-independent analysis demonstrated food-type detection at 97.2% F1-Score, and an average Absolute Error of 3.0 kCal per food-type. Our system shows promise in distinguishing food items and predicting calorie intake in a bedridden participant setting given a limited set of food items.</sup></sub>
@@ -31,7 +31,7 @@ Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-wor
 
 
 [When generalized eating detection machine learning models fail in the field][2].
-**S. Zhang**, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017)*
+**S. Zhang**, R. Alharbi, M. Nicholson, and N. Alshurafa. *Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (Ubicomp 2017).*
 <!-- Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers, Pages 613-622. -->
 
 <sub><sup>**Highlight:** In this paper we use a wrist-worn sensor to test a generalized machine learning models' reliability in detecting eating episodes through data processing. We process data from a 6-axis inertial sensor. Since most eating episodes do not occur while moving, we filter out periods of physical activity, and then use an advanced motif-based time-point fusion technique to detect feeding gestures. We also cluster each of the false alarms into four categories in an effort to identify the main behaviors that confound feeding gesture detection. This result shows clear challenges in characterizing eating episodes by using a single inertial-based wrist-worn sensor.</sup></sub>
@@ -47,14 +47,14 @@ Pages 91-96  -->
 
 
 [An iterative dimensionality-scaling system for real-time health monitoring applications][5].
-H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI)* 
+H. Kalantarian, M. Sarrafzadeh, **S. Zhang**, and N. Alshurafa. *2016 IEEE International Conference on Healthcare Informatics (ICHI).* 
 
 <sub><sup>**Highlight:** Wearable health-monitoring systems must achieve a balance between the often opposing goals of hardware overhead and classification accuracy. Prior works have presented various approaches to dynamically scale the accuracy of these systems as a function of available resources. In this paper, we present a framework which retroactively improves the accuracy of prior estimates when resources become available, using a novel global cost minimization function. We benchmark our algorithm on an audio-based nutrition monitoring dataset. Results confirm the efficacy of our technique.</sup></sub>
 
 
 
 [Machine learning algorithms applied to detect feeding gestures][4].
-**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016*
+**S. Zhang**, R. Alharbi, W. Stogin, K. Moran, AF. Pfammatter, B. Spring, and N. Alshurafa. *The Obesity Society 2016.*
 
 
 
