@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "2018-2019 International Conference Deadline on Ubiquitous Computing, Machine Learning, Computer Vision and Data Mining"
+title:  "Conference Deadline"
 description: 2018-2019 International Conference Deadline on Ubiquitous Computing, Machine Learning, Computer Vision and Data Mining
 permalink: /conference-deadline
 ---
+
+###2018-2019 International Conference Deadline on Ubiquitous Computing, Machine Learning, Computer Vision and Data Mining
 
 Conference | Submission Deadline 
 ------------- |:-------------:
