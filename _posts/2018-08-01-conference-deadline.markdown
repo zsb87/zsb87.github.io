@@ -5,7 +5,13 @@ description: 2018-2019 International Conference Deadline on Ubiquitous Computing
 permalink: /conference-deadline
 ---
 
-| Conference        | Submission Deadline           |
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+| Conference | Submission Deadline  |
 | ------------- |:-------------:| 
 | UbiComp      | Aug, 15, 2018 | 
 | AAAI      | Sep, 5, 2018 | 
@@ -22,7 +28,7 @@ permalink: /conference-deadline
 | ICML | TBD | 
 | KDD  | TBD | 
 <!--KDD (Knowledge Discovery and Data Mining)-->
-<!--ICML (International Conference on Machine Learning)-->
+<!--ICML (International Conference on Long Beach, California, Machine Learning) June 10 -- June 15, 2019.-->
 
 Another fuller collection is on Jackie Tseng's [website][1]. 
 [1]: https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences.html
