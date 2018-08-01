@@ -5,12 +5,24 @@ description: 2018-2019 International Conference Deadline on Ubiquitous Computing
 permalink: /conference-deadline
 ---
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Conference | Submission Deadline 
+------------- |:-------------:
+UbiComp      | Aug, 15, 2018 
+AAAI      | Sep, 5, 2018 
+CHI | Sep, 15, 2018 
+PerCom | Sep, 15, 2018
+ICDE | Oct, 15, 2018 
+ICASSP | Oct, 29, 2018 
+WWW | Nov, 5, 2018 
+UbiComp | Nov, 15, 2018 
+CVPR | Nov, 16, 2018 
+MobiSys | Dec, 1, 2018 
+ICCV | Jan, 1, 2019 
+UbiComp | Feb, 15, 2018 
+ICML | TBD 
+KDD  | TBD
 
-
+<!-- 
 | Conference | Submission Deadline  |
 | ------------- |:-------------:| 
 | UbiComp      | Aug, 15, 2018 | 
@@ -26,7 +38,7 @@ Content in the first column | Content in the second column
 | ICCV | Jan, 1, 2019 | 
 | UbiComp | Feb, 15, 2018 | 
 | ICML | TBD | 
-| KDD  | TBD | 
+| KDD  | TBD |  -->
 <!--KDD (Knowledge Discovery and Data Mining)-->
 <!--ICML (International Conference on Long Beach, California, Machine Learning) June 10 -- June 15, 2019.-->
 
