@@ -24,7 +24,7 @@ UbiComp | Feb, 15, 2018
 ICML | TBD 
 KDD  | TBD
 
-<!-- 
+
 | Conference | Submission Deadline  |
 | ------------- |:-------------:| 
 | UbiComp      | Aug, 15, 2018 | 
@@ -40,7 +40,8 @@ KDD  | TBD
 | ICCV | Jan, 1, 2019 | 
 | UbiComp | Feb, 15, 2018 | 
 | ICML | TBD | 
-| KDD  | TBD |  -->
+| KDD  | TBD | 
+
 <!--KDD (Knowledge Discovery and Data Mining)-->
 <!--ICML (International Conference on Long Beach, California, Machine Learning) June 10 -- June 15, 2019.-->
 
