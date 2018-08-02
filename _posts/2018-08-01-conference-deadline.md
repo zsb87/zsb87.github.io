@@ -5,7 +5,7 @@ description: 2018-2019 International Conference Deadline on Ubiquitous Computing
 permalink: /conference-deadline
 ---
 
-## 2018-2019 International Conference Deadline on Ubiquitous Computing, Machine Learning, Computer Vision and Data Mining
+### 2018-2019 International Conference Deadline on Ubiquitous Computing, Machine Learning, Computer Vision and Data Mining
 
 Conference | Submission Deadline | h5-index
 ------------- |:-------------:
