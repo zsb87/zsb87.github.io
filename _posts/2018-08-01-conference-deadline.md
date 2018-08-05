@@ -10,6 +10,8 @@ permalink: /conference-deadline
 *update: Aug, 3, 2018*
 
 <!--excerpt_separator-->
+
+
 Conference | Submission Deadline | h5-index
 ------------- |:-------------:
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Aug, 15, 2018 | 52
