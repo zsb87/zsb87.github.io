@@ -16,6 +16,7 @@ Conference | Submission Deadline | h5-index
 ------------- |:-------------:
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Aug, 15, 2018 | 52
 **AAAI** <br>AAAI Conference on Artificial Intelligence | Sep, 5, 2018 | 69
+**ICSPIC** <br>[(International Conference on Signal Processing and Information Communications)][2] | Sep, 5, 2018 | 
 **ICRA** <br>(International Conference on Robotics and Automation) | Sep, 10, 2018 | 71
 **CHI** <br>(ACM CHI Conference on Human Factors in Computing Systems) | Sep, 15, 2018 | 86
 **PerCom** <br>(IEEE International Conference on Pervasive Computing and Communications) | Sep, 21, 2018 | 31
@@ -25,6 +26,7 @@ Conference | Submission Deadline | h5-index
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Nov, 15, 2018 | 52
 **CVPR** <br>(The Conference on Computer Vision and Pattern Recognition) | Nov, 16, 2018 | 188
 **MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 1, 2018 | 40
+**ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 40
 **ICDM** <br>(International Conference on Data Mining) | Jan, 29, 2019 | 38
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Feb, 15, 2019 | 52
 **ICML** <br>(International Conference on Machine Learning) | TBD | 113
@@ -38,5 +40,6 @@ Conference | Submission Deadline | h5-index
 Another fuller collection is on Jackie Tseng's [website][1]. 
 
 [1]: https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences.html
-
+[2]: http://www.icme2019.org/
+[3]: http://www.icspic.com/
 
