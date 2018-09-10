@@ -27,6 +27,7 @@ Conference | Submission Deadline | h5-index
 **CVPR** <br>(The Conference on Computer Vision and Pattern Recognition) | Nov, 16, 2018 | 188
 **MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 1, 2018 | 40
 **ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 26
+**ICWSM** <br>(International Conference on Web and Social Media) | Jan, 15, 2019 | 53
 **ICDM** <br>(International Conference on Data Mining) | Jan, 29, 2019 | 38
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Feb, 15, 2019 | 52
 **ICML** <br>(International Conference on Machine Learning) | TBD | 113
@@ -35,6 +36,7 @@ Conference | Submission Deadline | h5-index
 **IJCAI** <br>(International Joint Conference on Artificial Intelligence) | TBD | 61
 **ICCV** <br>(The International Conference on Computer Vision) | Mar, 1, 2019 | 124
 **IROS** <br>(International Conference on Intelligent Robots and Systems) | Mar, 1, 2019 | 50
+**VLDB** <br>(International Conference on Very Large Data Bases) | 1st every month, until March 2019 | 31
 
 
 Another fuller collection is on Jackie Tseng's [website][1]. 
