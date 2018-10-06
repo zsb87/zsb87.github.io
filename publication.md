@@ -22,7 +22,7 @@ permalink: /publication/
 ## Conference Proceedings
 ---
 
-Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors. (poster, accepted)
+Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors.
 **S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018).*
 <!-- Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers, Pages 613-622. -->
 
