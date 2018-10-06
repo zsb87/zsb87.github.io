@@ -9,7 +9,7 @@ permalink: /about/
 Hello there! My name is **Shibo Zhang**. I am a computer science PhD at Northwestern University. I am working in [HABitsLab][1]. I'm a big fan of **machine learning**, in both machine learning theory and applications. 
 
 
-My research area is **mobile health**. I am interested in applying machine learning and data analysis techniques to help advance our ability to understand, detect, predict, and ultimately prevent problematic health habits.
+My research area is **mobile health**. I am interested in *innovating* new machine learning and data mining techiques as well as *applying* these techniques to help advance our ability to understand, detect, predict, and ultimately prevent problematic health habits.
 
 
 ## Contact
