@@ -27,10 +27,12 @@ Conference | Submission Deadline | h5-index
 **CVPR** <br>(The Conference on Computer Vision and Pattern Recognition) | Nov, 16, 2018 | 188
 **MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 1, 2018 | 40
 **ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 26
+**ICPR** <br>(International Conference on Pattern Recognition) | TBD | 28
 **ICWSM** <br>(International Conference on Web and Social Media) | Jan, 15, 2019 | 53
 **ICDM** <br>(International Conference on Data Mining) | Jan, 29, 2019 | 38
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Feb, 15, 2019 | 52
-**ICML** <br>(International Conference on Machine Learning) | TBD | 113
+**IJCAI** <br>(International Joint Conference on Artificial Intelligence) | Feb, 25, 2019 | 61
+**ICML** <br>(International Conference on Machine Learning) | Jan, 18, 2019 | 113
 **SIGKDD** <br>(ACM SIGKDD International Conference on Knowledge discovery and data mining) | TBD (Feb) | 77
 **NIPS** <br>(Conference on Neural Information Processing Systems) | TBD (May) | 134
 **IJCAI** <br>(International Joint Conference on Artificial Intelligence) | TBD | 61
