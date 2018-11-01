@@ -25,7 +25,7 @@ Conference | Submission Deadline | h5-index
 **WWW** <br>(The Web Conference) | Nov, 5, 2018 | 76
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Nov, 15, 2018 | 52
 **CVPR** <br>(The Conference on Computer Vision and Pattern Recognition) | Nov, 16, 2018 | 188
-**MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 1, 2018 | 40
+**MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 14, 2018 | 40
 **ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 26
 **ICPR** <br>(International Conference on Pattern Recognition) | TBD | 28
 **ICWSM** <br>(International Conference on Web and Social Media) | Jan, 15, 2019 | 53
