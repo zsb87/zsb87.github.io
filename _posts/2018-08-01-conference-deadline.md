@@ -22,13 +22,11 @@ Conference | Submission Deadline | h5-index
 **PerCom** <br>(IEEE International Conference on Pervasive Computing and Communications) | Sep, 21, 2018 | 31
 **ICDE** <br>(International Conference on Data Engineering) | Oct, 15, 2018 | 51
 **ICASSP** <br>(International Conference on Acoustics, Speech, and Signal Processing) | Oct, 29, 2018 | 79
-**WWW** <br>(The Web Conference) | Nov, 5, 2018 | 76
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Nov, 15, 2018 | 52
 **CVPR** <br>(The Conference on Computer Vision and Pattern Recognition) | Nov, 16, 2018 | 188
 **MobiSys** <br>(The International Conference on Mobile Systems, Applications, and Services) | Dec, 14, 2018 | 40
 **ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 26
 **ICPR** <br>(International Conference on Pattern Recognition) | TBD | 28
-**ICWSM** <br>(International Conference on Web and Social Media) | Jan, 15, 2019 | 53
 **ICML** <br>(International Conference on Machine Learning) | Jan, 23, 2019 | 113
 **ICDM** <br>(International Conference on Data Mining) | Jan, 29, 2019 | 38
 **SIGKDD** <br>(ACM SIGKDD International Conference on Knowledge discovery and data mining) | Feb, 3, 2019 | 77
