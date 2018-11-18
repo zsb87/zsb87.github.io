@@ -29,17 +29,17 @@ Conference | Submission Deadline | h5-index
 **ICME** <br>[(IEEE International Conference on Multimedia and Expo)][3] | Dec, 3, 2018 | 26
 **ICPR** <br>(International Conference on Pattern Recognition) | TBD | 28
 **ICWSM** <br>(International Conference on Web and Social Media) | Jan, 15, 2019 | 53
-**ICML** <br>(International Conference on Machine Learning) | Jan, 18, 2019 | 113
+**ICML** <br>(International Conference on Machine Learning) | Jan, 23, 2019 | 113
 **ICDM** <br>(International Conference on Data Mining) | Jan, 29, 2019 | 38
+**SIGKDD** <br>(ACM SIGKDD International Conference on Knowledge discovery and data mining) | Feb, 3, 2019 | 77
 **UbiComp** <br>(ACM International Joint Conference on Pervasive and Ubiquitous Computing) | Feb, 15, 2019 | 52
 **IJCAI** <br>(International Joint Conference on Artificial Intelligence) | Feb, 25, 2019 | 61
-**SIGKDD** <br>(ACM SIGKDD International Conference on Knowledge discovery and data mining) | TBD (Feb) | 77
-**NIPS** <br>(Conference on Neural Information Processing Systems) | TBD (May) | 134
-**ICCV** <br>(The International Conference on Computer Vision) | Mar, 1, 2019 | 124
+**ICCV** <br>(The International Conference on Computer Vision) | Mar, 22, 2019 | 124
 **IROS** <br>(International Conference on Intelligent Robots and Systems) | Mar, 1, 2019 | 50
 **VLDB** <br>(International Conference on Very Large Data Bases) | 1st every month, until March 2019 | 31
-**SenSys** <br>(ACM Conference on Embedded Networked Sensor Systems) | April 2019 | 32
-**ICLR** <br>(International Conference on Learning Representations) | Sep 2019 | -
+**SenSys** <br>(ACM Conference on Embedded Networked Sensor Systems) | April, 2019 | 32
+**NIPS** <br>(Conference on Neural Information Processing Systems) | TBD (May) | 134
+**ICLR** <br>(International Conference on Learning Representations) | Sep, 2019 | -
 
 
 Another fuller collection is on Jackie Tseng's [website][1]. 
