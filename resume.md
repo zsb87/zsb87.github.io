@@ -16,7 +16,7 @@ urlcolor: blue
 Research Interests
 ---------
 
-Machine Learning, Human Activity Recognition, Time Series Data Analysis
+Mobile Health, Machine Learning, Human Activity Recognition, Time Series Data Analysis
 
 
 
@@ -24,7 +24,7 @@ Machine Learning, Human Activity Recognition, Time Series Data Analysis
 Education
 ---------
 
-2021 (expected)
+2020 (expected)
 :   PhD, Computer Science, Northwestern University
 
 <!-- 2017
@@ -35,7 +35,7 @@ Education
 Publications
 ----------
 
-Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors. (poster, accepted)
+Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors.
 **S. Zhang**, D. Nguyen, G. Zhang, R. Xu, N. Maglaveras, N. Alshurafa. *The Third IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018).*
 
 
@@ -70,7 +70,7 @@ Defining Gold Standard Measures for Obesity-Related Research. *NU's Data Science
 
 Awards
 ----------
-
+NSF Student Attendance Scholarship, CHASE 2018<br/>
 Best Paper Award, Bodynets 2016<br/>
 Outstanding Undergraduate Graduation Thesis Award<br/>
 National Freescale Cup Intelligent Car Racing Competition<!-- , Second Prize<br/> -->
