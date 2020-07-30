@@ -1,0 +1,13 @@
+@INPROCEEDINGS{caloriebedridden,
+  author={S. {Zhang} and D. {Nguyen} and G. {Zhang} and R. {Xu} and N. {Maglaveras} and N. {Alshurafa}},
+  booktitle={2018 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)}, 
+  title={Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-Worn Sensors}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={1-2},
+  abstract={We present an approach for estimating calorie intake given a limited number of foods provided to patients in an in-bed setting. Data collected from a proximity sensor, inertial measurement unit, ambient light, and audio sensor placed around the neck are used to classify food-type consumed by second using a random forest classifier. A multiple linear regression model is then developed for each food-type to map second-level features to calories per second. We conducted a user study in a patient simulated lab setting, where 10 participants were asked to eat while sitting on a patient bed. A user-independent analysis demonstrated food-type detection at 97.2% F1-Score, and an average Absolute Error of 3.0 kCal per food-type. Our system shows promise in distinguishing food items and predicting calorie intake in a bedridden participant setting given a limited set of food items.},
+  keywords={body sensor networks;diseases;medical computing;patient monitoring;random forests;regression analysis;telemedicine;bedridden hospital patients;neck-worn sensors;inertial measurement unit;audio sensor;random forest classifier;multiple linear regression model;bedridden participant;user-independent analysis;caloric intake estimation;food-type detection;Hospitals;Feature extraction;Neck;Monitoring;Wearable sensors;Biomedical monitoring;Calorie intake estimation, hospital malnutrition, wearable sensor, food identification, eating behavior},
+  doi={10.1145/3278576.3278577},
+  ISSN={},
+  month={Sep.},}

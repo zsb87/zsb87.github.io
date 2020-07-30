@@ -1,0 +1,16 @@
+@inproceedings{whenfail,
+author = {Zhang, Shibo and Alharbi, Rawan and Nicholson, Matthew and Alshurafa, Nabil},
+title = {When Generalized Eating Detection Machine Learning Models Fail in the Field},
+year = {2017},
+isbn = {9781450351904},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3123024.3124409},
+doi = {10.1145/3123024.3124409},
+booktitle = {Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers},
+pages = {613–622},
+numpages = {10},
+keywords = {fusion, feeding gesture, overeating, in-the-field test, motif-based segmentation, classification, hand-to-mouth gestures, wrist-worn sensors, k-spectral centroid clustering, wearables, inertial sensors},
+location = {Maui, Hawaii},
+series = {UbiComp ’17}
+}
