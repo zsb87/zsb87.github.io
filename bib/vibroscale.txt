@@ -1,0 +1,12 @@
+@inproceedings{vibroscale,
+author = {Zhang, Shibo and Xu, Qiuyang and Sen, Sougata and Alshurafa, Nabil},
+title = {VibroScale: Turning Your Smartphone into a WeighingScale},
+year = {2020},
+isbn = {978-1-4503-8076-8/20/09},
+publisher = {Association for Computing Machinery},
+doi = {10.1145/3410530.3414397},
+booktitle = {Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers (UbiComp/ISWC ’20 Adjunct), September 12--16, 2020, Virtual Event, Mexico},
+keywords = {smartphone, weighing scale, measurement, vibration, accelerometer},
+location = {Virtual Event, Mexico},
+series = {UbiComp ’20}
+}
