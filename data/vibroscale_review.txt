@@ -1,9 +1,20 @@
 Reviewer 1
 
--'This paper proposed a novel method of weight estimation for items based on the smartphone accelerometer sensor and vibration motor. The measured items must fit on the surface of the smartphone to be measured by comparing vibration intensity with the item on the smartphone to a baseline intensity of just the smartphone.'
--'The paper demonstrates an exciting and novel use of an everyday smartphone for estimating weight.'
+-  	'This paper proposed a novel method of weight estimation for items 
+	based on the smartphone accelerometer sensor and vibration motor. 
+	The measured items must fit on the surface of the smartphone to be 
+	measured by comparing vibration intensity with the item on the 
+	smartphone to a baseline intensity of just the smartphone.'
+
+-	'The paper demonstrates an exciting and novel use of an everyday 
+	smartphone for estimating weight.'
 
 Reviewer 2
 
--'The vibroscale project allows the measurement of weight of some food items by using the vibration sensor in common smartphones. It showed very promising results with an error of 12.4 grams.'
--'The overall work is nice, with an easy application and space in everyday activities. I am looking forward to hearing more about it at Ubicomp this year.'
+-	'The vibroscale project allows the measurement of weight of some 
+	food items by using the vibration sensor in common smartphones. 
+	It showed very promising results with an error of 12.4 grams.'
+	
+-	'The overall work is nice, with an easy application and space in 
+	everyday activities. I am looking forward to hearing more about 
+	it at Ubicomp this year.'
