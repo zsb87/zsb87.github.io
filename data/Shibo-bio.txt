@@ -4,5 +4,5 @@ health, and machine learning. He received the B.S. and M.Eng. degrees in electri
 engineering from the Harbin Institute of Technology, Harbin, China, in 2012 and 2014, 
 respectively, and the M.S. degree in computer science from Northwestern University, 
 Evanston, IL, USA, in 2017, where he is currently pursuing the Ph.D. degree in computer 
-science. He has won the Best Paper Award in the BodyNets 2016.
+science.
 
