@@ -1,3 +1,5 @@
+@font-face {font-family: "PeriodicoW03-TxtLt"; src: url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.eot"); src: url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.woff") format("woff"), url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9b9ee8ca390bd3c86731c3dd43cf28aa.svg#PeriodicoW03-TxtLt") format("svg"); }
+
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
@@ -81,27 +83,37 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
+   /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "PeriodicoW03-TxtLt";*/
   font-size: 14px
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
+   /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "PeriodicoW03-TxtLt";*/
   font-size: 14px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
+   /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "PeriodicoW03-TxtLt";*/
   font-size: 22px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
+   /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "PeriodicoW03-TxtLt";*/
   font-size: 14px;
-  font-weight: 700
+  font-weight: 800
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
+   /*font-family: Helvetica, sans-serif;*/
+  /*font-family: "PeriodicoW03-TxtLt";*/
   font-size: 32px;
 }
 
