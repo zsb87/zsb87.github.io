@@ -82,40 +82,53 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-   /*font-family: Helvetica, sans-serif;*/
-  /*font-family: "PeriodicoW03-TxtLt";*/
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
+  font-weight: lighter;
   font-size: 14px
+
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-   /*font-family: Helvetica, sans-serif;*/
-  /*font-family: "PeriodicoW03-TxtLt";*/
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-   /*font-family: Helvetica, sans-serif;*/
-  /*font-family: "PeriodicoW03-TxtLt";*/
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
+  font-weight: lighter;
   font-size: 22px;
 }
 
+.underline{
+  border-bottom: 1px solid black;
+  width: 100%;
+  display: block;
+}
+
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-   /*font-family: Helvetica, sans-serif;*/
-  /*font-family: "PeriodicoW03-TxtLt";*/
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
   font-size: 14px;
   font-weight: 800
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-   /*font-family: Helvetica, sans-serif;*/
-  /*font-family: "PeriodicoW03-TxtLt";*/
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+   font-family: sans-serif;
+  font-weight: lighter;
   font-size: 32px;
 }
+
+subheading {
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
 
 .one {
   width: 160px;
