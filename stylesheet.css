@@ -129,6 +129,12 @@ subheading {
   font-weight: 400;
 }
 
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
 
 .one {
   width: 160px;
