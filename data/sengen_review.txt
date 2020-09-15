@@ -1,0 +1,15 @@
+Comments to authors
+
+  Feedback from the reviewers:
+
+  R1:
+
+  Motion data synthesis is a highly contempory topic with ample of exploitation options. However, the approach to synthese from unorganised video is likely to incure fidelity problems, where biomechanical models could be an asset, see: https://rdcu.be/b5ynj The proposal appears elaborate but could benefit from discussion to clarify the approach and scientific merit. No graduation date is indicated, but the research is advanced already to the stage where benefit by the DC is not clear.
+
+  R2:
+
+  DL approach to data-labeling for activity recongition. The approach seems novel and feasible. The use of GANs are proposed for data augmentation by sinthezising accelerometer data from video. The proposed work is relevant to Ubicomp and at a stage in which it can benefit from the DC.
+
+  R3:
+
+  The proposed work fits within the scope of ubicomp for sure and tackles and important problem space. Aspects of the proposed work seem like it has already been tackled (i.e., the implementation seems like it's mostly completed already) with just the validation mostly left to be completed. So it's not clear how much the student would benefit from presenting at the DC.
