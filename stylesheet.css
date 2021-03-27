@@ -116,8 +116,8 @@ heading {
 papertitle {
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-family: sans-serif;
+  font-weight: 500
   font-size: 14px;
-  font-weight: 800
 }
 
 name {
@@ -130,8 +130,8 @@ name {
 subheading {
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-family: sans-serif;
-  font-size: 16px;
   font-weight: 400;
+  font-size: 16px;
 }
 /*
 pre code {
