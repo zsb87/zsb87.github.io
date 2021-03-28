@@ -116,7 +116,14 @@ heading {
 papertitle {
   /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
   font-family: sans-serif;
-  font-weight: 500
+  /*font-weight: 400;*/
+  font-size: 14px;
+}
+
+myname {
+  /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
+  font-family: sans-serif;
+  font-weight: 500;
   font-size: 14px;
 }
 
